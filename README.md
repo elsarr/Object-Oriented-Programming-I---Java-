@@ -1,2 +1,2 @@
-# Object-Oriented-Programming-I---Java-
+# Object-Oriented-Programming-I Java-
 University Java Programming class, beginner 
