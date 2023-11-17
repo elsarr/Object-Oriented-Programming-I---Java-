@@ -1,7 +1,7 @@
 //--------------------------------------
 //Assignment 1 question 1
-//Written by: Elsa Rufenacht 40235345
-//For COMP248 Section EC - Winter 2023
+//Written by: Elsa R
+//For Object-Oriented Programming I - Winter 2023
 //--------------------------------------
 
 //This program determines the change to be given back in crypto coins of the forthcoming millennium 
