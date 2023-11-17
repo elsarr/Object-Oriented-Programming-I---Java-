@@ -1,6 +1,6 @@
 //Assignment 1 question 2 
-//Written by: Elsa Rufenacht 40235345
-//For COMP 248 Section EC - Winter 2023
+//Written by: Elsa 
+//For Object-Oriented Programming I - Winter 2023
 
 //This program calculates the number of movie ticekts someone can buy with a prepaid giftcard
 
